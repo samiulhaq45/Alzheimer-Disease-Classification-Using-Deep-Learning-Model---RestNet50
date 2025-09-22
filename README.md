@@ -25,6 +25,17 @@ Due to the challenge of **imbalanced datasets** in medical imaging, this work in
 - **Models Implemented:** ResNet  
 
 ---
+## 📂 Dataset
+
+This project is based on the **Alzheimer’s 4-Class Dataset** originally published on Kaggle:  
+[Alzheimer 4 Class Dataset](https://www.kaggle.com/datasets/preetpalsingh25/alzheimers-dataset-4-class-of-images)
+
+For experimentation, I created a **modified version of this dataset** to handle class imbalance and improve training performance.
+[Augmented Alzheimer Dataset](https://www.kaggle.com/datasets/samiulhaq45/final-alzheimer-dataset)
+
+⚠️ Due to size restrictions, the dataset may not be directly available in this GitHub repository.  
+You can download the original dataset from Kaggle using the links above and also the modified version.
+---
 
 ## ⚙️ Methodology  
 
